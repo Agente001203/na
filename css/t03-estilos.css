@@ -1,0 +1,45 @@
+body {
+    color: darkgreen;
+    background-color: black;
+    color: #fff5f5;
+}
+
+.Menu{
+    text-align:left;
+    border-style: solid;
+    border-width: 5px;
+  padding: 5px;
+  font-family: 'sans-serif';
+  color: darkgreen;
+  background-color: #2b1f31;
+  }
+#zona-encabezado{
+    text-align: center;
+    background: #2b1f31;
+}
+.Texto-encabezado{
+    color: #fff5f5;
+    font-family:  'Helvetica';
+}
+#zona-imagenes{
+    text-align: center;
+    background-color: rgb(27, 141, 27);
+    padding: 4px;
+}
+.img{
+    width: 250px;
+    height: 250px;
+}
+#zona-cuerpo{
+    text-align: center;
+    background: #2b1f31;
+}
+.Texto-cuerpo{
+    color: #fff5f5;
+    font-family: 'Arial';
+}
+.Texto-final{
+    font-family: 'Arial';
+    color: #fff5f5;
+    background-color: #2b1f31;
+}
